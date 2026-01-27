@@ -7,7 +7,7 @@ It includes tutorials, dataset preparation, training, evaluation, and model depl
 ## Contents
 - `src/` : Training, evaluation, and inference scripts.
 - `models/` : Trained weights and checkpoints (optional, can be in GitHub releases).
-- `results/` : Example outputs and visualizations.
+- `runs/` : Example outputs and visualizations.
 
 ## Requirements
 - Python >= 3.12

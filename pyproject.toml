@@ -5,9 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-"torch",
-"torchvision",
-"ultralytics"
+    "opencv-python-headless>=4.13.0.90",
+    "torch",
+    "torchvision",
+    "ultralytics",
 ]
 
 [tool.uv]
