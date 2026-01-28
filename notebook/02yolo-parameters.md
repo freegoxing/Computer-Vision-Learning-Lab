@@ -1,11 +1,13 @@
 # YOLO 参数
 其默认/可设置的参数放在 `default.yaml` 我下载下来放到了
+
 ```bash
 src/02yolo-parameters/default.yaml
-notebook/attachment/default.yaml
+attachment/02yolo-parameters/default.yaml
 ```
+
 我们可以从这个位置来查看默认的参数和有那些可以设置的
-[default.yaml](attachment/default.yaml)
+[default.yaml](attachment/02yolo-parameters/default.yaml)
 
 下面给出一个常用的参数设置
 
