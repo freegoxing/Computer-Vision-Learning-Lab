@@ -1,8 +1,8 @@
 from ultralytics import YOLO
 
-yolo = YOLO(model="../../models/yolov8n.pt", task="detect")
+yolo = YOLO(model="../../../models/yolov8n.pt", task="detect")
 
-result = yolo.predict(source="traffic.png")
+result = yolo.predict(source="../../../data/Yolo/traffic.png")
 
 
 print(type(result))
